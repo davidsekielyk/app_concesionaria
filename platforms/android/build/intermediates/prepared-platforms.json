@@ -1,4 +1,5 @@
 {
+    "nativescript-bottom-navigation": true,
     "nativescript-cardview": true,
     "nativescript-gradient": true,
     "nativescript-pro-ui": true,

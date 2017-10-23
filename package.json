@@ -10,6 +10,7 @@
     }
   },
   "dependencies": {
+    "nativescript-bottom-navigation": "^1.0.1",
     "nativescript-cardview": "^2.0.3",
     "nativescript-gradient": "^2.0.1",
     "nativescript-pro-ui": "^3.1.4",

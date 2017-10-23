@@ -1,11 +1,12 @@
 <Page xmlns="http://schemas.nativescript.org/tns.xsd"
         xmlns:Card="nativescript-cardview"
+        xmlns:bottomBar="nativescript-bottom-navigation"
         xmlns:Gradient="nativescript-gradient"
         xmlns:gauge="nativescript-pro-ui/gauges"
         navigatingTo="onNavigatingTo" class="page" actionBarHidden="true"
         loaded="pageLoaded">
 
-    <GridLayout rows="auto,*">
+    <GridLayout rows="auto,*,auto">
         <!-- Usuario -->
         <GridLayout row="0" rows="auto,auto,auto">
             <Gradient:Gradient direction="to bottom" colors="#2B308F, #225198, #1D609C" padding="10 15 0">
@@ -105,5 +106,11 @@
                 </GridLayout>
             </Card:CardView>
         </GridLayout>
+        <!-- BottomBar -->
+        <bottomBar:BottomNavigation row="2" loaded="loaded" height="40">
+            <bottomBar:BottomNavigationTab icon="icono_datos_auto"></bottomBar:BottomNavigationTab>
+            <bottomBar:BottomNavigationTab icon="icono_cuotas_pagadas" ></bottomBar:BottomNavigationTab>
+            <bottomBar:BottomNavigationTab icon="icono_cuotas_vencidas"></bottomBar:BottomNavigationTab> 
+        </bottomBar:BottomNavigation>
     </GridLayout>
 </Page>

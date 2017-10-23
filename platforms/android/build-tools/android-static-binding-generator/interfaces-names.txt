@@ -941,6 +941,9 @@ com.telerik.android.data.CurrentItemChangedListener
 com.telerik.android.data.DataChangedListener
 com.telerik.android.data.OnJSONDataSourceCreated
 com.telerik.android.data.SelectionChangeListener
+com.aurelhubert.ahbottomnavigation.AHBottomNavigation.OnNavigationPositionListener
+com.aurelhubert.ahbottomnavigation.AHBottomNavigation.OnTabSelectedListener
+com.aurelhubert.ahbottomnavigation.VerticalScrollingBehavior.ScrollDirection
 com.telerik.android.common.CollectionChangeListener
 com.telerik.android.common.DependencyPropertyChangedListener
 com.telerik.android.common.Function

@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/home/david/Documentos/laburo/app_concesionaria/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xxxhdpi/icono_cuotas_vencidas.png",
+        "source": "/home/david/Documentos/laburo/app_concesionaria/platforms/android/src/main/res/drawable-xxxhdpi/icono_cuotas_vencidas.png"
+    },
+    {
+        "merged": "/home/david/Documentos/laburo/app_concesionaria/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xxxhdpi/icon.png",
+        "source": "/home/david/Documentos/laburo/app_concesionaria/platforms/android/src/main/res/drawable-xxxhdpi/icon.png"
+    },
+    {
+        "merged": "/home/david/Documentos/laburo/app_concesionaria/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xxxhdpi/icono_datos_auto.png",
+        "source": "/home/david/Documentos/laburo/app_concesionaria/platforms/android/src/main/res/drawable-xxxhdpi/icono_datos_auto.png"
+    },
+    {
+        "merged": "/home/david/Documentos/laburo/app_concesionaria/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xxxhdpi/background.png",
+        "source": "/home/david/Documentos/laburo/app_concesionaria/platforms/android/src/main/res/drawable-xxxhdpi/background.png"
+    },
+    {
+        "merged": "/home/david/Documentos/laburo/app_concesionaria/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xxxhdpi/icono_cuotas_pagadas.png",
+        "source": "/home/david/Documentos/laburo/app_concesionaria/platforms/android/src/main/res/drawable-xxxhdpi/icono_cuotas_pagadas.png"
+    },
+    {
+        "merged": "/home/david/Documentos/laburo/app_concesionaria/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xxxhdpi/icon_advertencia.png",
+        "source": "/home/david/Documentos/laburo/app_concesionaria/platforms/android/src/main/res/drawable-xxxhdpi/icon_advertencia.png"
+    },
+    {
+        "merged": "/home/david/Documentos/laburo/app_concesionaria/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xxxhdpi/logo.png",
+        "source": "/home/david/Documentos/laburo/app_concesionaria/platforms/android/src/main/res/drawable-xxxhdpi/logo.png"
+    }
+]

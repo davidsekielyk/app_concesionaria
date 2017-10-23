@@ -2,6 +2,7 @@
 /home/david/Documentos/laburo/app_concesionaria/platforms/android/src/main/assets/app/main-page.js
 /home/david/Documentos/laburo/app_concesionaria/platforms/android/src/main/assets/app/main-view-model.js
 /home/david/Documentos/laburo/app_concesionaria/platforms/android/src/main/assets/app/bundle-config.js
+/home/david/Documentos/laburo/app_concesionaria/platforms/android/src/main/assets/app/views/cuotas_vencidas/cuotas_vencidas.js
 /home/david/Documentos/laburo/app_concesionaria/platforms/android/src/main/assets/app/views/datos_auto/datos_auto.js
 /home/david/Documentos/laburo/app_concesionaria/platforms/android/src/main/assets/app/views/cuotas_pagadas/cuotas_pagadas.js
 /home/david/Documentos/laburo/app_concesionaria/platforms/android/src/main/assets/app/tns_modules/nativescript-pro-ui/scripts/eula-prompt.js
@@ -159,5 +160,8 @@
 /home/david/Documentos/laburo/app_concesionaria/platforms/android/src/main/assets/app/tns_modules/tns-core-modules/ui/time-picker/time-picker.js
 /home/david/Documentos/laburo/app_concesionaria/platforms/android/src/main/assets/app/tns_modules/tns-core-modules/matrix/matrix.js
 /home/david/Documentos/laburo/app_concesionaria/platforms/android/src/main/assets/app/tns_modules/tns-core-modules/image-source/image-source.js
+/home/david/Documentos/laburo/app_concesionaria/platforms/android/src/main/assets/app/tns_modules/nativescript-bottom-navigation/bottom-navigation.js
+/home/david/Documentos/laburo/app_concesionaria/platforms/android/src/main/assets/app/tns_modules/nativescript-bottom-navigation/bottom-navigation.common.js
+/home/david/Documentos/laburo/app_concesionaria/platforms/android/src/main/assets/app/tns_modules/nativescript-bottom-navigation/hooks/before-livesync/nativescript-angular-sync.js
 /home/david/Documentos/laburo/app_concesionaria/platforms/android/src/main/assets/app/tns_modules/nativescript-cardview/cardview.js
 /home/david/Documentos/laburo/app_concesionaria/platforms/android/src/main/assets/app/tns_modules/nativescript-cardview/cardview-common.js
