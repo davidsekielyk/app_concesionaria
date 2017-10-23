@@ -2,6 +2,9 @@
 /home/david/Documentos/laburo/app_concesionaria/platforms/android/src/main/assets/app/main-page.js
 /home/david/Documentos/laburo/app_concesionaria/platforms/android/src/main/assets/app/main-view-model.js
 /home/david/Documentos/laburo/app_concesionaria/platforms/android/src/main/assets/app/bundle-config.js
+/home/david/Documentos/laburo/app_concesionaria/platforms/android/src/main/assets/app/views/datos_auto/datos_auto.js
+/home/david/Documentos/laburo/app_concesionaria/platforms/android/src/main/assets/app/views/cuotas_pagadas/cuotas_pagadas.js
+/home/david/Documentos/laburo/app_concesionaria/platforms/android/src/main/assets/app/tns_modules/nativescript-pro-ui/scripts/eula-prompt.js
 /home/david/Documentos/laburo/app_concesionaria/platforms/android/src/main/assets/app/tns_modules/nativescript-gradient/gradient-common.js
 /home/david/Documentos/laburo/app_concesionaria/platforms/android/src/main/assets/app/tns_modules/nativescript-gradient/gradient.js
 /home/david/Documentos/laburo/app_concesionaria/platforms/android/src/main/assets/app/tns_modules/tns-core-modules/bundle-entry-points.js

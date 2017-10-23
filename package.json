@@ -12,6 +12,7 @@
   "dependencies": {
     "nativescript-cardview": "^2.0.3",
     "nativescript-gradient": "^2.0.1",
+    "nativescript-pro-ui": "^3.1.4",
     "nativescript-theme-core": "~1.0.2",
     "tns-core-modules": "~3.2.0"
   },
