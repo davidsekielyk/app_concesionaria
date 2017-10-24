@@ -1,9 +1,12 @@
 {
     "nativescript-bottom-navigation": true,
     "nativescript-cardview": true,
+    "nativescript-email": true,
     "nativescript-gradient": true,
+    "nativescript-phone": true,
     "nativescript-pro-ui": true,
     "nativescript-theme-core": true,
     "tns-core-modules": true,
+    "nativescript-permissions": true,
     "tns-core-modules-widgets": true
 }

@@ -90,15 +90,15 @@
                         <label col="3" text="" />
                     </GridLayout>
                     <GridLayout row="4" columns="*,*,*" rows="auto" margin="0 10 10">
-                        <GridLayout row="0" col="0" rows="auto" columns="auto,*">
+                        <GridLayout row="0" col="0" rows="auto" columns="auto,*" tap="openWhatsapp">
                             <Image class="entry_icon" src="~/images/whatsapp.png" col="0" row="0"/>
                             <Label class="entry_text" text="+54 9 362 494-6892"  col="1"  row="0"/>
                         </GridLayout>
-                        <GridLayout row="0" col="1" rows="auto" columns="auto,*">
+                        <GridLayout row="0" col="1" rows="auto" columns="auto,*" tap="openWeb">
                             <Image class="entry_icon" src="~/images/globe.png" col="0"  row="0"/>
                             <Label class="entry_text" text="superplan.com.ar"  col="1"  row="0"/>
                         </GridLayout>
-                        <GridLayout row="0" col="2" rows="auto" columns="auto,*">
+                        <GridLayout row="0" col="2" rows="auto" columns="auto,*" tap="openEmail">
                             <Image class="entry_icon" src="~/images/envelop.png" col="0" row="0"/>
                             <Label class="entry_text" text="consultas@superplan.com.ar"  col="1" row="0"/>
                         </GridLayout>

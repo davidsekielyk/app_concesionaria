@@ -21,15 +21,15 @@
                     <!-- Datos ingresados -->
                     <GridLayout row="0" rows="auto,auto,auto,auto" class="datos_ingresados">
                         <Label row="0" text="Grupo" margin="20 20 0" />
-                        <TextField row="1" autocorrect="false" autocapitalizationType="none" margin="0 20 0"/>
+                        <TextField row="1" text="{{ grupo }}" autocorrect="false" autocapitalizationType="none" margin="0 20 0"/>
                         <Label row="2" text="Orden" margin="20 20 0" />
-                        <TextField row="3" autocorrect="false" autocapitalizationType="none" margin="0 20 0"/>
+                        <TextField row="3" text="{{ orden }}" autocorrect="false" autocapitalizationType="none" margin="0 20 0"/>
                     </GridLayout>
                     <!-- Modelo del auto -->
                     <!-- <dd:DropDown row="1" items="{{ marcas }}" selectedIndex="{{ marca }}" id="marcas_dropdown" class="dropdown_modelo"/> -->
                     <!-- Ingresar -->
                     <GridLayout row="2" columns="*,auto,*">
-                        <Card:CardView col="1" margin="70 0 30" radius="30">
+                        <Card:CardView col="1" margin="70 0 30" radius="30" tap="login">
                             <Gradient:Gradient direction="to right" colors="#2B308F, #225198, #1D609C">
                                 <Label text="Ingresar" class="button_descarga"/>
                             </Gradient:Gradient>

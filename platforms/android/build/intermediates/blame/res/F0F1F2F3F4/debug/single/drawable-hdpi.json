@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/home/david/Documentos/laburo/app_concesionaria/platforms/android/build/intermediates/res/merged/F0F1F2F3F4/debug/drawable-hdpi/icono_cuotas_pagadas.png",
+        "source": "/home/david/Documentos/laburo/app_concesionaria/platforms/android/src/main/res/drawable-hdpi/icono_cuotas_pagadas.png"
+    },
+    {
+        "merged": "/home/david/Documentos/laburo/app_concesionaria/platforms/android/build/intermediates/res/merged/F0F1F2F3F4/debug/drawable-hdpi/background.png",
+        "source": "/home/david/Documentos/laburo/app_concesionaria/platforms/android/src/main/res/drawable-hdpi/background.png"
+    },
+    {
+        "merged": "/home/david/Documentos/laburo/app_concesionaria/platforms/android/build/intermediates/res/merged/F0F1F2F3F4/debug/drawable-hdpi/logo.png",
+        "source": "/home/david/Documentos/laburo/app_concesionaria/platforms/android/src/main/res/drawable-hdpi/logo.png"
+    },
+    {
+        "merged": "/home/david/Documentos/laburo/app_concesionaria/platforms/android/build/intermediates/res/merged/F0F1F2F3F4/debug/drawable-hdpi/icon_advertencia.png",
+        "source": "/home/david/Documentos/laburo/app_concesionaria/platforms/android/src/main/res/drawable-hdpi/icon_advertencia.png"
+    },
+    {
+        "merged": "/home/david/Documentos/laburo/app_concesionaria/platforms/android/build/intermediates/res/merged/F0F1F2F3F4/debug/drawable-hdpi/icon.png",
+        "source": "/home/david/Documentos/laburo/app_concesionaria/platforms/android/src/main/res/drawable-hdpi/icon.png"
+    },
+    {
+        "merged": "/home/david/Documentos/laburo/app_concesionaria/platforms/android/build/intermediates/res/merged/F0F1F2F3F4/debug/drawable-hdpi/icono_datos_auto.png",
+        "source": "/home/david/Documentos/laburo/app_concesionaria/platforms/android/src/main/res/drawable-hdpi/icono_datos_auto.png"
+    },
+    {
+        "merged": "/home/david/Documentos/laburo/app_concesionaria/platforms/android/build/intermediates/res/merged/F0F1F2F3F4/debug/drawable-hdpi/icono_cuotas_vencidas.png",
+        "source": "/home/david/Documentos/laburo/app_concesionaria/platforms/android/src/main/res/drawable-hdpi/icono_cuotas_vencidas.png"
+    }
+]

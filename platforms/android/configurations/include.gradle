@@ -1,4 +1,4 @@
 
 android {
-    flavorDimensions "nativescriptproui", "tnscoremoduleswidgets", "nativescriptbottomnavigation", "nativescriptcardview"
+    flavorDimensions "nativescriptproui", "tnscoremoduleswidgets", "nativescriptphone", "nativescriptbottomnavigation", "nativescriptcardview"
 }

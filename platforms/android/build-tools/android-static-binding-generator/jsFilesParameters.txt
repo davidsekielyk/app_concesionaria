@@ -8,6 +8,7 @@
 /home/david/Documentos/laburo/app_concesionaria/platforms/android/src/main/assets/app/tns_modules/nativescript-pro-ui/scripts/eula-prompt.js
 /home/david/Documentos/laburo/app_concesionaria/platforms/android/src/main/assets/app/tns_modules/nativescript-gradient/gradient-common.js
 /home/david/Documentos/laburo/app_concesionaria/platforms/android/src/main/assets/app/tns_modules/nativescript-gradient/gradient.js
+/home/david/Documentos/laburo/app_concesionaria/platforms/android/src/main/assets/app/tns_modules/nativescript-phone/index.js
 /home/david/Documentos/laburo/app_concesionaria/platforms/android/src/main/assets/app/tns_modules/tns-core-modules/bundle-entry-points.js
 /home/david/Documentos/laburo/app_concesionaria/platforms/android/src/main/assets/app/tns_modules/tns-core-modules/css-value/index.js
 /home/david/Documentos/laburo/app_concesionaria/platforms/android/src/main/assets/app/tns_modules/tns-core-modules/fetch/fetch.js
@@ -160,8 +161,10 @@
 /home/david/Documentos/laburo/app_concesionaria/platforms/android/src/main/assets/app/tns_modules/tns-core-modules/ui/time-picker/time-picker.js
 /home/david/Documentos/laburo/app_concesionaria/platforms/android/src/main/assets/app/tns_modules/tns-core-modules/matrix/matrix.js
 /home/david/Documentos/laburo/app_concesionaria/platforms/android/src/main/assets/app/tns_modules/tns-core-modules/image-source/image-source.js
+/home/david/Documentos/laburo/app_concesionaria/platforms/android/src/main/assets/app/tns_modules/nativescript-email/email.js
 /home/david/Documentos/laburo/app_concesionaria/platforms/android/src/main/assets/app/tns_modules/nativescript-bottom-navigation/bottom-navigation.js
 /home/david/Documentos/laburo/app_concesionaria/platforms/android/src/main/assets/app/tns_modules/nativescript-bottom-navigation/bottom-navigation.common.js
 /home/david/Documentos/laburo/app_concesionaria/platforms/android/src/main/assets/app/tns_modules/nativescript-bottom-navigation/hooks/before-livesync/nativescript-angular-sync.js
+/home/david/Documentos/laburo/app_concesionaria/platforms/android/src/main/assets/app/tns_modules/nativescript-permissions/permissions.js
 /home/david/Documentos/laburo/app_concesionaria/platforms/android/src/main/assets/app/tns_modules/nativescript-cardview/cardview.js
 /home/david/Documentos/laburo/app_concesionaria/platforms/android/src/main/assets/app/tns_modules/nativescript-cardview/cardview-common.js

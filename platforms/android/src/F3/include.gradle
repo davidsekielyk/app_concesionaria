@@ -1,18 +1,16 @@
-//default elements
+/* Include.gradle configuration: http://docs.nativescript.org/plugins/plugins#includegradle-specification */
+
 android {
-    productFlavors {
-        "nativescriptcardview" {
-            dimension "nativescriptcardview"
-        }
-    }
+	productFlavors {
+		"nativescript-bottom-navigation" {
+			dimension "nativescript-bottom-navigation"
+		}
+	}
 }
 
 dependencies {
-      def supportVer = "22.2.0";
-
-      if(project.hasProperty("supportVersion")) {
-       supportVer = supportVersion
-      }
-
-	 compile "com.android.support:cardview-v7:$supportVer"
+    // Describe plugin native Android dependencies like
+	// compile "groupName:pluginName:ver" 
+    // EXAMPLE: compile "com.facebook.fresco:fresco:0.9.0+"
+    compile 'com.aurelhubert:ahbottomnavigation:2.1.0'
 }
