@@ -3,7 +3,7 @@
         xmlns:bottomBar="nativescript-bottom-navigation"
         xmlns:Gradient="nativescript-gradient"
         xmlns:gauge="nativescript-pro-ui/gauges"
-        navigatingTo="onNavigatingTo" class="page" actionBarHidden="true"
+        navigatedTo="onNavigatedTo" class="page" actionBarHidden="true"
         loaded="pageLoaded">
 
     <GridLayout rows="auto,*,auto">
@@ -29,27 +29,39 @@
                                 </gauge:RadialScale.scaleStyle>
                             
                                 <gauge:RadialScale.indicators>
-                                    <gauge:RadialBarIndicator minimum="0" maximum="100" location="0.7">
+                                    <gauge:RadialBarIndicator minimum="0" maximum="100" location="0.75">
                                         <gauge:RadialBarIndicator.indicatorStyle>
-                                            <gauge:BarIndicatorStyle fillColor="#40434C" barWidth="0.1"/>
+                                            <gauge:BarIndicatorStyle fillColor="#40434C" barWidth="0.05"/>
                                         </gauge:RadialBarIndicator.indicatorStyle>
                                     </gauge:RadialBarIndicator>
 
-                                    <gauge:RadialBarIndicator minimum="0" maximum="0" location="0.7" isAnimated="true">
+                                    <gauge:RadialBarIndicator minimum="0" maximum="0" location="0.75" isAnimated="true">
                                         <gauge:RadialBarIndicator.indicatorStyle>
-                                            <gauge:BarIndicatorStyle cap="Round" fillColor="#1D609C" barWidth="0.1"/>
+                                            <gauge:BarIndicatorStyle cap="Round" fillColor="#1D609C" barWidth="0.05"/>
                                         </gauge:RadialBarIndicator.indicatorStyle>
                                     </gauge:RadialBarIndicator>
 
                                     <gauge:RadialBarIndicator minimum="0" maximum="100" location="0.8">
                                         <gauge:RadialBarIndicator.indicatorStyle>
-                                            <gauge:BarIndicatorStyle fillColor="#40434C" barWidth="0.1"/>
+                                            <gauge:BarIndicatorStyle fillColor="#40434C" barWidth="0.05"/>
                                         </gauge:RadialBarIndicator.indicatorStyle>
                                     </gauge:RadialBarIndicator>
 
                                     <gauge:RadialBarIndicator minimum="0" maximum="0" location="0.8" isAnimated="true">
                                         <gauge:RadialBarIndicator.indicatorStyle>
-                                            <gauge:BarIndicatorStyle cap="Round" fillColor="#E32E46" barWidth="0.1"/>
+                                            <gauge:BarIndicatorStyle cap="Round" fillColor="#E32E46" barWidth="0.05"/>
+                                        </gauge:RadialBarIndicator.indicatorStyle>
+                                    </gauge:RadialBarIndicator>
+
+                                    <gauge:RadialBarIndicator minimum="0" maximum="100" location="0.85">
+                                        <gauge:RadialBarIndicator.indicatorStyle>
+                                            <gauge:BarIndicatorStyle fillColor="#40434C" barWidth="0.05"/>
+                                        </gauge:RadialBarIndicator.indicatorStyle>
+                                    </gauge:RadialBarIndicator>
+
+                                    <gauge:RadialBarIndicator minimum="0" maximum="0" location="0.85" isAnimated="true">
+                                        <gauge:RadialBarIndicator.indicatorStyle>
+                                            <gauge:BarIndicatorStyle cap="Round" fillColor="#0095A1" barWidth="0.05"/>
                                         </gauge:RadialBarIndicator.indicatorStyle>
                                     </gauge:RadialBarIndicator>
 
@@ -63,7 +75,7 @@
                         <Label row="2" col="1" text="CUOTAS PAGADAS" class="text_porcentaje"/>
                     </GridLayout>
                     <!-- Cuotas -->
-                    <GridLayout row="1" rows="auto,auto" columns="*,*,*" margin="10 0">
+                    <GridLayout row="1" rows="auto,auto" columns="*,*,*" margin="5 0">
                         <!-- Impagas -->
                         <Label row="0" col="0" text="CUOTAS IMPAGAS" class="text_cuotas"/>
                         <Label row="1" col="0" text="24" class="text_num_cuotas" color="#175E79"/>
@@ -76,7 +88,7 @@
                     </GridLayout>
                     <!-- Descarga -->
                     <GridLayout row="2" columns="*,auto,*">
-                        <Card:CardView col="1" margin="10" radius="35">
+                        <Card:CardView col="1" margin="10" radius="25">
                             <Gradient:Gradient direction="to right" colors="#2B308F, #225198, #1D609C">
                                 <Label text="Descarga de Cuotas" class="button_descarga"/>
                             </Gradient:Gradient>

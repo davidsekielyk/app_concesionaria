@@ -5,6 +5,8 @@ import { BottomNavigation, OnTabSelectedEventData } from "nativescript-bottom-na
 import * as utils from 'utils/utils';
 import * as phone from 'nativescript-phone';
 import * as email from "nativescript-email";
+import frameModule = require("tns-core-modules/ui/frame");
+import gaugesModule = require("nativescript-pro-ui/gauges");
 
 export function loaded(args) {
   let bar: BottomNavigation = args.object;
@@ -25,6 +27,17 @@ export function tabSelected(args: OnTabSelectedEventData) {
       moduleName: "views/cuotas_vencidas/cuotas_vencidas"
     });
   };
+}
+
+export function onNavigatedTo(args) {
+    let gaugeView: gaugesModule.RadRadialGauge = <gaugesModule.RadRadialGauge>frameModule.topmost().getViewById("gaugeView");
+    let scale: gaugesModule.RadialScale = <gaugesModule.RadialScale>gaugeView.scales.getItem(0);
+    for (var i = 0; i < scale.indicators.length; i++) {
+        let barIndicator: gaugesModule.RadialBarIndicator = <gaugesModule.RadialBarIndicator>scale.indicators.getItem(i);
+        if (barIndicator.maximum == 0) {
+            barIndicator.maximum = Math.random() * 100;
+        }
+    }
 }
 
 export function openFacebook(){

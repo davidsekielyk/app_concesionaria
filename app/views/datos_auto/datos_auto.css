@@ -12,6 +12,7 @@
 .text_km{
     font-size: 15;
     color: white;
+    font-weight: bold;
 }
 
 .logo_marca{
@@ -20,7 +21,7 @@
 
 .text_centrado{
     font-size: 15;
-    text-align: center
+    text-align: center;
 }
 
 .presentacion{
@@ -28,6 +29,7 @@
     color: #2B308F;
     font-size: 20;
     text-align: center;
+    font-weight: bold;
 }
 
 .entry_icon{
@@ -42,4 +44,8 @@
 .label_fondo{
     background-color: #1D609C;
     height: 10%;
+}
+
+.negrita{
+    font-weight: bold;
 }

@@ -5,6 +5,7 @@ import { BottomNavigation, OnTabSelectedEventData } from "nativescript-bottom-na
 import * as utils from 'utils/utils';
 import * as phone from 'nativescript-phone';
 import * as email from "nativescript-email";
+import {AndroidApplication} from "application";
 
 
 export function loaded(args) {

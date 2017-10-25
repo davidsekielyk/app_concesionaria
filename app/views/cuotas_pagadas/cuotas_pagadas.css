@@ -7,11 +7,13 @@
     text-align: center;
     font-size: 20;
     color: white;
+    font-weight: bold;
 }
 
 .text_km{
     font-size: 15;
     color: white;
+    font-weight: bold;
 }
 
 .gauge{
@@ -22,24 +24,29 @@
 
 .num_porcentaje{
     color: white;
-    font-size: 25;
+    font-size: 35;
     text-align: center;
+    font-family: "Blockletter";
+    margin-left: 7;
 }
 
 .text_porcentaje{
     color: white;
-    font-size: 7;
+    font-size: 8;
     text-align: center;
+    font-weight: bold;
 }
 
 .text_cuotas{
     font-size: 8;
     text-align: center;
+    font-weight: bold;
 }
 
 .text_num_cuotas{
-    font-size: 20;
+    font-size: 30;
     text-align: center;
+    font-family: "Blockletter";
 }
 
 .button_descarga{

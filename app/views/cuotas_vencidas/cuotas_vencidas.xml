@@ -46,8 +46,8 @@
                         <Label row="2" text="25%" class="text_num" color="#009A9F"/>
                     </GridLayout>
                     <!-- Cuotas a vencer -->
-                    <GridLayout row="2" rows="*,auto,auto,auto,*" columns="*,auto,*" marginTop="20">
-                        <Image row="1" col="1" src="res://icon_advertencia" width="70" marginBottom="10"/>
+                    <GridLayout row="2" rows="*,auto,auto,auto,*" columns="*,auto,*" >
+                        <Image row="1" col="1" src="res://icon_advertencia" width="70" marginBottom="5"/>
                         <Label row="2" col="1" text="CUOTAS A VENCER" class="text_cuota"/>
                         <Label row="3" col="1" text="2" class="text_num_vencidas"/>
                     </GridLayout>
